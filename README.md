@@ -4,16 +4,14 @@
 </div>
 <br>
 <ul>
-<li>🌱 My name is niefee, I am Chinese, welcome to my GitHub home page</li>
-<li>⚡ I know HTML</li>
-<li>😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.</li>
-<li>💖 Love the beautiful code and photos</li>
-<li>🔥 One is never too old to learn.</li>
+<li>🌱 My name is Ly Thanh Long, I am Vietnamese, welcome to my GitHub home page</li>
+<li>🎓 I am pursuing Data Science at National Economics University.</li>
+<li>💖 Passionated in implementing Machine Learning and AI Solutions into real-world phenomenon! </li>
 </ul>
 <br>
 <p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Niefee&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;show_icons=true&amp;theme=radical">
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
+    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=tlong-ds&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;show_icons=true&amp;theme=radical">
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=tlong-ds&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
 </p>
 <div align="center">
     <picture align="center">
@@ -25,9 +23,8 @@
 <p align="center"> 
   </p><div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg">
+    <img src="https://profile-counter.glitch.me/tlong-ds/count.svg">
   </div> 
 <p></p>
 <hr>
-<p>Credit: <a href="https://github.com/Niefee">Niefee</a>
-Last Edited on 03/02/2023</p> 
+<p>Credit: <a href="https://github.com/tlong-ds">tlong-ds</a></p>
