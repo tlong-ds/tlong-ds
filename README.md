@@ -13,11 +13,3 @@
     <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=tlong-ds&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;show_icons=true&amp;theme=radical">
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=tlong-ds&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
 </p>
-<p align="center"> 
-  </p><div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/tlong-ds/count.svg">
-  </div> 
-<p></p>
-<hr>
-<p>Credit: <a href="https://github.com/tlong-ds">tlong-ds</a></p>
