@@ -4,8 +4,8 @@
 </div>
 <br>
 <ul>
-<li>🌱 My name is Ly Thanh Long, I am Vietnamese, welcome to my GitHub home page</li>
-<li>🎓 I am pursuing Data Science at National Economics University.</li>
+<li>🌱 Welcome to my space</li>
+<li>🎓 Undergraduate in DSEB at National Economics University. AI Engineer Intern at Alpha Data Academy</li>
 <li>💖 Passionated in implementing Machine Learning and AI Solutions into real-world phenomenon! </li>
 </ul>
 <br>
