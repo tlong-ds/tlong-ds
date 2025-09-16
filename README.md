@@ -5,8 +5,8 @@
 <br>
 <ul>
 <li>🌱 Welcome to my space</li>
-<li>🎓 Undergraduate in DSEB at National Economics University. AI Engineer Intern at Alpha Data Academy</li>
-<li>💖 Passionated in implementing Machine Learning and AI Solutions into real-world phenomenon! </li>
+<li>🎓 Undergraduate in DSEB at National Economics University. AI Engineer Intern at Alpha Data Academy. </li>
+<li>💖 Passionated in implementing Machine Learning and AI Solutions into real-world phenomenon. </li>
 </ul>
 <br>
 <p align="center" style="height: 180px;">
