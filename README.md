@@ -10,6 +10,5 @@
 </ul>
 <br>
 <p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=tlong-ds&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;show_icons=true&amp;theme=radical">
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=tlong-ds&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
 </p>
