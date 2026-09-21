@@ -5,8 +5,8 @@
 <br>
 <ul>
 <li>🌱 Welcome to my space</li>
-<li>🎓 Undergraduate in DSEB at National Economics University. AI Engineer Intern at Alpha Data Academy. </li>
-<li>💖 Passionated in implementing Machine Learning and AI Solutions into real-world phenomenon. </li>
+<li>🎓 Undergraduate in Data Science in Economics and Business, Research Assistant at PMMLA/DAAI, AI Engineer at Alpha Data Academy.</li>
+<li>💖 Passionated in domain-specific NLP and AI research topics. Also enjoy doing full-stack/native-app development in my free time.</li>
 </ul>
 <br>
 <p align="center" style="height: 180px;">
